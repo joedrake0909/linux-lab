@@ -1,0 +1,8 @@
+Linux Vim Survival
+Student: bio
+Goal: Learn to edit files from the terminal.
+Skills: Insert, save, quit, search, replace, undo.
+Status: Not started yet
+
+Editing with Vim is in progress.
+Vim Survival Challenge: Task 3 is complete
